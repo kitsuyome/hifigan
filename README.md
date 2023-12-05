@@ -6,7 +6,7 @@ This repository is based on the paper  'HiFi-GAN: Generative Adversarial Network
 
 ## Report
 
-[Wandb link](https://wandb.ai/kitsuyomi/dla-hw-4/reports/HiFi-GAN-Implementation--Vmlldzo2MTc2ODAx)
+[Wandb link](https://wandb.ai/kitsuyomi/dla-hw-4/reports/HiFi-GAN-Implementation--Vmlldzo2MTc3MzMz)
 
 ## Installation
 
